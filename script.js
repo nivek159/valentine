@@ -11,7 +11,7 @@ function check()
     if(input.match("ATICUN"))
     {
     	alert("Felicidades, lo lograste!!");
-        location.href ="";
+        alert("REVISA TU TOMO IV DE HISTORIA UNIVERSAL, BUEN TRABAJO");
     }
 }
 
